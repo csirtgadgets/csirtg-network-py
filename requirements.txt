@@ -1,5 +1,5 @@
 pytricia>=0.9.0
 ipaddress>=1.0.16
-netaddr
-netifaces
-dnspython
+netaddr>=0.7
+netifaces>=0.10.5
+dnspython>=1.15
